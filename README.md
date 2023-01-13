@@ -1,5 +1,5 @@
-# WhatsApp Chat Proxy For Dummies
-Easy instructions to setup WhatsApp Chat Proxy using an AWS (Amazon Web Services) EC2 instance. Assumption is that you have basic knowledge of how to open a shell terminal and navigate to different directories. 
+# WhatsApp Chat Proxy For Dummies (using `AWS`)
+Easy instructions to setup WhatsApp Chat Proxy using an `AWS (Amazon Web Services) EC2` instance. Assumption is that you have basic knowledge of how to open a shell terminal and navigate to different directories. 
 
 
 ### `Note: As of January 12 2023, WhatsApp Chat Proxy ONLY works for simple texting. Video/Audio Calls and Media (e.g. Images, Videos) upload/download are not proxied.`
