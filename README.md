@@ -125,7 +125,9 @@ You'll see something like `Docker Compose version v2.15.1`
 Now that you've successfully installed `docker`, `docker-compose` and `git`, go to [WhatsApp Proxy](https://github.com/WhatsApp/proxy) and follow the instructions. Please note that, you can now skip the instructions for `docker` and `docker-compose`. 
 
 Basically, all you'll need from the `WhatsApp` instructions are the following two steps:
+
 Cloning the repository
+
 Building the proxy host container 
 
 Then run the following so that the `WhatsApp Proxy` starts and keeps running even if you reboot your EC2 instance.
