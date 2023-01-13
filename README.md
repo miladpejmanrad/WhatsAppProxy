@@ -1,3 +1,6 @@
+<base target="_blank">
+
+
 # WhatsApp Chat Proxy For Dummies (using `AWS`)
 ### Easy instructions to setup WhatsApp Chat Proxy using an `AWS (Amazon Web Services) EC2` instance. Assumption is that you have basic knowledge of how to open a shell terminal and navigate to different directories. 
 
